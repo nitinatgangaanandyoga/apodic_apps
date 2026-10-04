@@ -1,0 +1,16 @@
+{
+  "title": "New listing",
+  "subtitle": "Classifieds",
+  "backAriaLabel": "Back to classifieds",
+  "categoryLabel": "Category",
+  "titleLabel": "Title",
+  "titlePlaceholder": "e.g. Yoga mats, barely used",
+  "priceLabel": "Price (optional)",
+  "pricePlaceholder": "Leave blank for Services or Free",
+  "descriptionLabel": "Description",
+  "descriptionPlaceholder": "Condition, pickup details, anything a neighbor should know...",
+  "photoLabel": "Photo",
+  "addPhotoButton": "Add a photo",
+  "disclaimer": "Listings are visible to residents only, and are between neighbors directly.",
+  "submitButton": "Post listing"
+}

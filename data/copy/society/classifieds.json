@@ -1,0 +1,13 @@
+{
+  "title": "Classifieds",
+  "backAriaLabel": "Back to society",
+  "residentBadge": "Resident",
+  "eventsTab": "Events",
+  "classifiedsTab": "Classifieds",
+  "allCategory": "All",
+  "unitPostedTemplate": "Unit {unit} · {posted}",
+  "freePriceLabel": "Free",
+  "serviceLabel": "Service",
+  "emptyState": "No listings in this category yet.",
+  "postListingButton": "Post a listing"
+}

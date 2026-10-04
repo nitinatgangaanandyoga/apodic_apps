@@ -1,0 +1,13 @@
+{
+  "title": "Events",
+  "subtitleTemplate": "{club} · open to everyone to browse",
+  "upNextLabel": "Up next",
+  "changeDayButton": "Change day",
+  "eventSingular": "1 event",
+  "eventPluralTemplate": "{n} events",
+  "emptyDay": "Nothing else on this day — see Up next above.",
+  "membersFooter": "Members RSVP in one tap and get a reminder the morning of.",
+  "joinButtonTemplate": "Join {club}",
+  "openTag": "Open to all",
+  "membersOnlyTag": "Members only"
+}

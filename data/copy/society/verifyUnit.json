@@ -1,0 +1,17 @@
+{
+  "title": "Confirm your home",
+  "subtitle": "Palm Grove Society",
+  "backAriaLabel": "Back to sign in",
+  "intro": "First time signing in? Tell us which home is yours and the committee will confirm it — usually within a day.",
+  "nameLabel": "Full name",
+  "namePlaceholder": "Your name",
+  "nameDefault": "Aditya",
+  "unitLabel": "Unit number",
+  "unitPlaceholder": "e.g. B-204",
+  "phoneLabel": "Phone number",
+  "phonePlaceholder": "+91 00000 00000",
+  "relationshipLabel": "Relationship to the unit",
+  "relationshipPlaceholder": "e.g. Owner, tenant, family member",
+  "committeeNote": "The committee may call to confirm before approving access.",
+  "submitButton": "Notify the committee"
+}

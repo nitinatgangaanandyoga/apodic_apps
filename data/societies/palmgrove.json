@@ -1,0 +1,184 @@
+{
+  "slug": "palmgrove",
+  "name": "Palm Grove Society",
+  "tagline": "Residential community · 180 homes",
+  "accent": "green",
+  "heroGradient": "linear-gradient(135deg, #3D5C4A 0%, #2F4B3C 55%, #1C3128 100%)",
+  "heroBadge": "PRIVATE COMMUNITY",
+  "homesLabel": "180 homes · residents only beyond this page",
+  "description": "A private, gated residential community. Anyone can look around here — the directory, messaging and classifieds inside are for residents.",
+  "exploreDescription": "A gated community with gardens, a clubhouse and quiet streets.",
+  "exploreOpenBadge": "Private community",
+  "amenities": [
+    {
+      "key": "garden",
+      "name": "Garden",
+      "blurb": "Landscaped walking paths and seasonal gardens, tended year-round.",
+      "gradient": "linear-gradient(135deg, #DCEEDC 0%, #7FB88F 55%, #2F6B46 100%)"
+    },
+    {
+      "key": "clubhouse",
+      "name": "Clubhouse",
+      "blurb": "A shared hall for gatherings, celebrations and monthly meetings.",
+      "gradient": "linear-gradient(135deg, #E8D9BE 0%, #B99A66 55%, #6E4E28 100%)"
+    },
+    {
+      "key": "security",
+      "name": "Security",
+      "blurb": "24/7 guards, CCTV at every gate, and a single supervised entrance.",
+      "gradient": "linear-gradient(135deg, #C7D2D9 0%, #7C93A3 55%, #3B4C59 100%)"
+    },
+    {
+      "key": "playarea",
+      "name": "Kids' Play Area",
+      "blurb": "A fenced, soft-flooring play area with swings and a slide.",
+      "gradient": "linear-gradient(135deg, #F6D9A8 0%, #E3A94F 55%, #A66A1E 100%)"
+    }
+  ],
+  "amenityDetails": {
+    "garden": {
+      "key": "garden",
+      "title": "The Garden",
+      "gradient": "linear-gradient(135deg, #DCEEDC 0%, #7FB88F 55%, #2F6B46 100%)",
+      "accentColor": "#2F6B46",
+      "description": "Landscaped gardens with walking paths and seating, tended year-round by the community's gardening team.",
+      "hours": { "kind": "single", "text": "6:00 AM – 9:00 PM daily" },
+      "highlights": ["Walking and jogging paths", "Seasonal flower beds", "Pergola for gatherings"],
+      "footer": "Open to all residents; guests should be accompanied.",
+      "secondaryCta": "Contact management",
+      "primaryCta": "View garden map"
+    },
+    "clubhouse": {
+      "key": "clubhouse",
+      "title": "The Clubhouse",
+      "gradient": "linear-gradient(135deg, #E8D9BE 0%, #B99A66 55%, #6E4E28 100%)",
+      "accentColor": "#6E4E28",
+      "description": "A shared hall for community gatherings, celebrations, and the monthly residents' meeting.",
+      "hours": { "kind": "single", "text": "7:00 AM – 10:00 PM daily" },
+      "highlights": ["Seats up to 80", "Kitchen and catering setup", "Free for resident bookings"],
+      "footer": "Bookings are managed through the residents' association.",
+      "secondaryCta": "Contact management",
+      "primaryCta": "Book the clubhouse"
+    },
+    "security": {
+      "key": "security",
+      "title": "Security",
+      "gradient": "linear-gradient(135deg, #C7D2D9 0%, #7C93A3 55%, #3B4C59 100%)",
+      "accentColor": "#3B4C59",
+      "description": "Round-the-clock security staff, CCTV coverage at all entry points, and a single gated entrance for the whole community.",
+      "hours": { "kind": "single", "text": "24/7" },
+      "highlights": ["24/7 on-site guards", "CCTV at all gates", "Visitor sign-in at entrance"],
+      "footer": "All visitors and deliveries are logged at the gate.",
+      "secondaryCta": "View visitor policy",
+      "primaryCta": "Contact security desk"
+    },
+    "playarea": {
+      "key": "playarea",
+      "title": "Kids' Play Area",
+      "gradient": "linear-gradient(135deg, #F6D9A8 0%, #E3A94F 55%, #A66A1E 100%)",
+      "accentColor": "#A66A1E",
+      "description": "A safe, fenced play area with swings, a slide and soft flooring, for younger residents.",
+      "hours": { "kind": "single", "text": "6:00 AM – 8:00 PM daily" },
+      "highlights": ["Fenced and supervised by parents", "Soft-fall flooring", "Suitable for ages 2–10"],
+      "footer": "Children should be accompanied by an adult at all times.",
+      "secondaryCta": "Contact management",
+      "primaryCta": "View play area rules"
+    }
+  },
+  "events": [
+    {
+      "key": "openhouse",
+      "dateTime": "SAT · 11:00 AM",
+      "title": "Autumn Open House",
+      "detail": "11:00 AM – 2:00 PM · Clubhouse lawn",
+      "gradient": "linear-gradient(135deg, #3D5C4A 0%, #2F4B3C 55%, #1C3128 100%)",
+      "openToAll": true,
+      "going": 42
+    },
+    {
+      "key": "diwali",
+      "dateTime": "SAT · 6:00 PM",
+      "title": "Residents' Diwali Potluck",
+      "detail": "6:00 PM – 9:00 PM · Community Hall",
+      "gradient": "linear-gradient(135deg, #F6D9A8 0%, #E3A94F 55%, #A66A1E 100%)",
+      "openToAll": false,
+      "going": 58
+    },
+    {
+      "key": "meeting",
+      "dateTime": "TUE · 7:30 PM",
+      "title": "Monthly Society Meeting",
+      "detail": "7:30 PM – 8:30 PM · Clubhouse",
+      "gradient": "linear-gradient(135deg, #C7D2D9 0%, #7C93A3 55%, #3B4C59 100%)",
+      "openToAll": false,
+      "going": 24
+    },
+    {
+      "key": "craft",
+      "dateTime": "SUN · 4:00 PM",
+      "title": "Kids' Weekend Craft Circle",
+      "detail": "4:00 PM – 5:30 PM · Garden pavilion",
+      "gradient": "linear-gradient(135deg, #DCEEDC 0%, #7FB88F 55%, #2F6B46 100%)",
+      "openToAll": false,
+      "going": 11
+    }
+  ],
+  "classifiedCategories": [
+    { "key": "sale", "label": "For sale" },
+    { "key": "services", "label": "Services" },
+    { "key": "free", "label": "Free" }
+  ],
+  "classifiedGradients": {
+    "sale": "linear-gradient(135deg, #DCEEDC 0%, #7FB88F 55%, #2F6B46 100%)",
+    "services": "linear-gradient(135deg, #F6D9A8 0%, #E3A94F 55%, #A66A1E 100%)",
+    "free": "linear-gradient(135deg, #C7D2D9 0%, #7C93A3 55%, #3B4C59 100%)"
+  },
+  "classifieds": [
+    {
+      "key": "l1",
+      "category": "sale",
+      "title": "Yoga mats (set of 2), barely used",
+      "price": 800,
+      "unit": "12",
+      "posted": "2 days ago",
+      "description": "Two yoga mats, 6mm thick, used for about two months. No tears or heavy wear. Selling both together as we're switching to a thicker set. Pickup from Unit 12, evenings work best."
+    },
+    {
+      "key": "l2",
+      "category": "services",
+      "title": "Piano lessons for kids, evenings",
+      "price": null,
+      "unit": "7",
+      "posted": "5 days ago",
+      "description": "Offering beginner piano lessons for kids aged 6 and up, weekday evenings at my place in Unit 7. Ten years of teaching experience; first lesson is free so you can see if it's a fit."
+    },
+    {
+      "key": "l3",
+      "category": "sale",
+      "title": "Moving sale: dining table + 4 chairs",
+      "price": 4500,
+      "unit": "22",
+      "posted": "1 day ago",
+      "description": "Solid wood dining table with 4 matching chairs, good condition, minor scuffs on one leg. We're moving out next week and need it gone quickly — happy to help carry it down."
+    },
+    {
+      "key": "l4",
+      "category": "services",
+      "title": "Dog walking, weekday mornings",
+      "price": null,
+      "unit": "3",
+      "posted": "1 week ago",
+      "description": "Retired resident happy to walk your dog weekday mornings while you're at work, usually 7:30–8:30 AM around the community paths. Comfortable with most breeds and sizes."
+    },
+    {
+      "key": "l5",
+      "category": "free",
+      "title": "Moving boxes, various sizes",
+      "price": null,
+      "unit": "14",
+      "posted": "3 days ago",
+      "description": "About 15 sturdy moving boxes in various sizes, used once and still in good shape, plus some bubble wrap. Free to whoever can pick them up from Unit 14 this week."
+    }
+  ],
+  "spaceCard": { "badge": "Resident · Unit 14", "initial": "P", "stat": "1 open house this week · 3 new classifieds" }
+}

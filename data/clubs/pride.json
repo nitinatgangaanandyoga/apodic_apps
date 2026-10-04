@@ -1,0 +1,129 @@
+{
+  "slug": "pride",
+  "name": "BPTP Pride Club",
+  "tagline": "BPTP Parklands Pride · Sector 77–78, Faridabad",
+  "accent": "brass",
+  "heroGradient": "linear-gradient(135deg, #C9A05F 0%, #B08D57 45%, #5B4423 100%)",
+  "heroBadge": "PUBLIC PREVIEW",
+  "description": "A gated, Lutyens-inspired plotted community across 156 acres, built around wellness lawns, a sports park and quiet, tree-lined streets — open to residents and, for a look around, to visitors too.",
+  "exploreDescription": "A gated, Lutyens-inspired community with a banquet hall, sports park and wellness lawns.",
+  "exploreOpenBadge": "Open to visit",
+  "amenities": [
+    {
+      "key": "banquet",
+      "name": "Banquet Hall",
+      "blurb": "A grand hall for weddings, receptions and community events, with in-house catering on request.",
+      "gradient": "linear-gradient(135deg, #E8D9BE 0%, #B99A66 55%, #6E4E28 100%)"
+    },
+    {
+      "key": "sportspark",
+      "name": "Sports Park",
+      "blurb": "Courts and open lawns for cricket and badminton, floodlit for evening play.",
+      "gradient": "linear-gradient(135deg, #CFE0C4 0%, #7FA36B 55%, #3B5A2E 100%)"
+    },
+    {
+      "key": "lawns",
+      "name": "Wellness Lawns",
+      "blurb": "Landscaped lawns and shaded pavilions across the community, planted with over 2,000 trees.",
+      "gradient": "linear-gradient(135deg, #E9E3D0 0%, #B7AD82 55%, #5F5636 100%)"
+    },
+    {
+      "key": "playarea",
+      "name": "Kids' Play Area",
+      "blurb": "A supervised play area with modern equipment and shaded seating for parents nearby.",
+      "gradient": "linear-gradient(135deg, #F4D9B0 0%, #E0955A 55%, #8C5323 100%)"
+    }
+  ],
+  "amenityDetails": {
+    "banquet": {
+      "key": "banquet",
+      "title": "The Banquet Hall",
+      "gradient": "linear-gradient(135deg, #E8D9BE 0%, #B99A66 55%, #6E4E28 100%)",
+      "accentColor": "#6E4E28",
+      "description": "A grand hall for weddings, receptions and community events, with in-house catering and a dedicated coordinator on request.",
+      "hours": { "kind": "single", "text": "By reservation, 9:00 AM – 11:00 PM" },
+      "highlights": ["Seats up to 300 guests", "In-house catering available", "Dedicated event coordinator"],
+      "cta": "Enquire about booking"
+    },
+    "sportspark": {
+      "key": "sportspark",
+      "title": "The Sports Park",
+      "gradient": "linear-gradient(135deg, #CFE0C4 0%, #7FA36B 55%, #3B5A2E 100%)",
+      "accentColor": "#3B5A2E",
+      "description": "Courts and open lawns for cricket and badminton, open in a morning and an evening session and floodlit after dark.",
+      "hours": {
+        "kind": "split",
+        "morning": { "range": "6:00 – 9:00 AM", "note": "Practice nets" },
+        "evening": { "range": "4:00 – 9:00 PM", "note": "Floodlit play" },
+        "closedNote": "Closed 9:00 AM – 4:00 PM daily for court maintenance"
+      },
+      "highlights": ["Cricket practice nets", "Badminton & basketball courts", "Floodlit for evening play"],
+      "cta": "Reserve a slot"
+    },
+    "lawns": {
+      "key": "lawns",
+      "title": "The Wellness Lawns",
+      "gradient": "linear-gradient(135deg, #E9E3D0 0%, #B7AD82 55%, #5F5636 100%)",
+      "accentColor": "#5F5636",
+      "description": "Landscaped lawns and shaded pavilions woven through the community, planted with over 2,000 mature trees.",
+      "hours": { "kind": "single", "text": "Open sunrise – sunset, daily" },
+      "highlights": ["2,000+ mature trees", "Shaded pavilions and benches", "Walking trails throughout"],
+      "cta": "View trail map"
+    },
+    "playarea": {
+      "key": "playarea",
+      "title": "The Kids' Play Area",
+      "gradient": "linear-gradient(135deg, #F4D9B0 0%, #E0955A 55%, #8C5323 100%)",
+      "accentColor": "#8C5323",
+      "description": "A supervised play area with modern, safety-certified equipment and shaded seating for parents nearby.",
+      "hours": { "kind": "single", "text": "6:00 AM – 8:00 PM daily" },
+      "highlights": ["Modern, safety-certified equipment", "Shaded seating for parents", "Supervised on weekends"],
+      "cta": "See play schedule"
+    }
+  },
+  "events": [
+    { "key": "walkers", "day": "today", "dayLabel": "Today", "date": "TODAY", "time": "6:30 AM", "title": "Morning Walkers' Club", "note": "Wellness Lawns", "open": true },
+    { "key": "cricket", "day": "today", "dayLabel": "Today", "date": "TODAY", "time": "6:00 PM", "title": "Community Cricket Match", "note": "Sports Park", "open": true },
+    { "key": "rwa", "day": "thu", "dayLabel": "Thursday", "date": "THU", "time": "7:00 PM", "title": "RWA Monthly Meeting", "note": "Banquet Hall", "open": false },
+    { "key": "carnival", "day": "sat", "dayLabel": "Saturday", "date": "SAT", "time": "10:00 AM", "title": "Kids' Weekend Carnival", "note": "Kids' Play Area", "open": true },
+    { "key": "diwali", "day": "oct19", "dayLabel": "Oct 19", "date": "OCT 19", "time": "6:00 PM", "title": "Diwali Mela", "note": "Wellness Lawns", "open": true }
+  ],
+  "eventGradients": [
+    "linear-gradient(135deg, #C9A05F 0%, #B08D57 50%, #5B4423 100%)",
+    "linear-gradient(135deg, #CFE0C4 0%, #7FA36B 55%, #3B5A2E 100%)",
+    "linear-gradient(135deg, #F4D9B0 0%, #E0955A 55%, #8C5323 100%)"
+  ],
+  "membershipPlans": [
+    {
+      "key": "individual",
+      "name": "Individual",
+      "price": "₹25,000",
+      "period": "/ year",
+      "features": ["Full access for one member", "Sports Park & Wellness Lawns included", "10% off banquet bookings"]
+    },
+    {
+      "key": "family",
+      "name": "Family",
+      "price": "₹40,000",
+      "period": "/ year",
+      "featured": true,
+      "features": ["Up to 4 family members", "Everything in Individual", "2 free guest passes every month"]
+    },
+    {
+      "key": "corporate",
+      "name": "Corporate",
+      "price": "Custom pricing",
+      "features": ["Bulk seats with flexible billing", "Dedicated account manager"]
+    }
+  ],
+  "interestOptions": [
+    { "key": "banquet", "label": "Banquet Hall" },
+    { "key": "sportspark", "label": "Sports Park" },
+    { "key": "lawns", "label": "Wellness Lawns" },
+    { "key": "playarea", "label": "Kids' Play Area" },
+    { "key": "events", "label": "Events" },
+    { "key": "pricing", "label": "Membership pricing" }
+  ],
+  "todayHighlight": { "badge": "Today at the club", "title": "Community Cricket Match", "note": "6:00 PM · Open to residents' guests" },
+  "spaceCard": { "badge": "Resident since 2021", "initial": "P", "stat": "2 events this week · sports park lit till 9 PM" }
+}

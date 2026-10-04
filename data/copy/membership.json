@@ -1,0 +1,10 @@
+{
+  "title": "Membership",
+  "introTemplate": "Choose a plan and start using {club} right away.",
+  "popularBadge": "Most popular",
+  "customPricing": "Custom pricing for teams",
+  "talkToUsButton": "Talk to us",
+  "chooseButtonTemplate": "Choose {plan}",
+  "disclaimer": "Prices include taxes. Renews annually; cancel any time before renewal.",
+  "notReadyLink": "Not ready yet? Just tell us you’re interested"
+}

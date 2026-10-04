@@ -1,0 +1,17 @@
+{
+  "title": "Events",
+  "backAriaLabel": "Back to society",
+  "residentBadge": "Resident",
+  "eventsTab": "Events",
+  "classifiedsTab": "Classifieds",
+  "thisMonthLabel": "This month",
+  "newEventButton": "New event",
+  "goingLabelTemplate": "{n} residents going",
+  "rsvpLabel": "RSVP",
+  "goingLabel": "Going ✓",
+  "signedInAsTemplate": "Signed in as {name}",
+  "demoName": "Aditya",
+  "demoUnit": "Unit 14",
+  "demoAvatarInitial": "A",
+  "signOutButton": "Sign out"
+}

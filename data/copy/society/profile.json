@@ -1,0 +1,13 @@
+{
+  "amenitiesLabel": "Amenities",
+  "seeDetails": "See details",
+  "eventsButton": "Events",
+  "saveAriaLabel": "Save society",
+  "backAriaLabel": "Back",
+  "teaserBadge": "This week in the community",
+  "teaserTemplate": "{n} events, including an open house",
+  "teaserSignInHint": "Sign in to see full details",
+  "membersFooter": "Residents get the directory, messaging, classifieds and governance.",
+  "requestVisitButton": "Request a visit",
+  "residentSignInButton": "Resident sign in"
+}

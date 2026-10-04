@@ -1,0 +1,15 @@
+{
+  "title": "Events",
+  "subtitle": "public preview",
+  "backAriaLabel": "Back to society profile",
+  "openToEveryoneLabel": "Open to everyone",
+  "openToAllTag": "Open to all",
+  "interestedButton": "I'm interested",
+  "thisMonthLabel": "This month for residents",
+  "moreEventsTemplate": "{n} more events this month",
+  "residentsOnlyTag": "Residents only",
+  "hiddenDetail": "Time & location hidden",
+  "signInToSeeMore": "Sign in to see full details & RSVP",
+  "residentsFooter": "Residents get the full calendar, RSVPs and reminders.",
+  "residentSignInButton": "Resident sign in"
+}

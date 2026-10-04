@@ -1,0 +1,14 @@
+{
+  "title": "Resident sign in",
+  "subtitle": "Palm Grove Society",
+  "backAriaLabel": "Back to society profile",
+  "heading": "Verify the phone linked to your home",
+  "body": "We'll text a one-time code to confirm it's you before opening the resident directory, messaging and classifieds.",
+  "phoneLabel": "Phone number",
+  "phonePlaceholder": "+91 00000 00000",
+  "orDivider": "or",
+  "newHereTitle": "New here? Verify by unit number",
+  "newHereNote": "For residents not yet on file",
+  "onFileNote": "Only phone numbers already on file with the society can sign in this way.",
+  "sendCodeButton": "Send code"
+}

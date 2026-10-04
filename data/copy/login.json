@@ -1,0 +1,14 @@
+{
+  "title": "Sign in to continue",
+  "subtitle": "Apodic account",
+  "verifyHeadingTemplate": "Verify your phone to join {club}",
+  "body": "We’ll text a one-time code. New to Apodic? This also creates your account — no separate sign-up needed.",
+  "phoneLabel": "Phone number",
+  "phonePlaceholder": "+91 00000 00000",
+  "demoPhone": "+91 90000 04213",
+  "orDivider": "or",
+  "googleButton": "Continue with Google",
+  "disclaimer": "By continuing, you agree to Apodic’s Terms of Service and Privacy Policy.",
+  "sendCodeButton": "Send code",
+  "backAriaLabel": "Back to membership plans"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "I'm interested",
+  "intro": "Leave your details and a membership advisor will reach out within one business day — no pressure, just answers.",
+  "nameLabel": "Full name",
+  "namePlaceholder": "Your name",
+  "nameDefault": "Aditya",
+  "phoneLabel": "Phone number",
+  "phonePlaceholder": "+91 00000 00000",
+  "emailLabel": "Email",
+  "emailPlaceholder": "you@email.com",
+  "interestsLabel": "What interests you most?",
+  "notesLabel": "Anything else? (optional)",
+  "notesPlaceholder": "Tell us what brings you to the club...",
+  "disclaimer": "We’ll only use this to help you join — no spam, ever.",
+  "submitButton": "Send interest"
+}

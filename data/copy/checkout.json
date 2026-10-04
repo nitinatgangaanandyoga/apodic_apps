@@ -1,0 +1,13 @@
+{
+  "title": "Confirm & pay",
+  "signedInAsTemplate": "Signed in as {phone}",
+  "demoPhone": "+91 90000 04213",
+  "billedAnnually": "Billed annually",
+  "changeButton": "Change",
+  "totalDueToday": "Total due today",
+  "paymentMethodLabel": "Payment method",
+  "cardLabel": "Card ending 4242",
+  "cardExpiry": "Expires 09/29",
+  "disclaimer": "By continuing you agree to the club’s membership terms and renewal policy.",
+  "payButtonTemplate": "Pay {price} & join"
+}

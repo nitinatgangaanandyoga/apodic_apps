@@ -1,0 +1,10 @@
+{
+  "backAriaLabel": "Back to classifieds",
+  "unitLabelTemplate": "Unit {unit}",
+  "postedLabelTemplate": "Posted {posted}",
+  "descriptionLabel": "Description",
+  "footer": "Listings are between residents directly; Apodic doesn't handle payment or delivery.",
+  "messageButtonTemplate": "Message Unit {unit}",
+  "freePriceLabel": "Free",
+  "serviceLabel": "Service"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Enter code",
+  "subtitle": "Palm Grove Society",
+  "backAriaLabel": "Back to phone entry",
+  "bodyTemplate": "We've sent a 6-digit code to {phone}.",
+  "maskedPhone": "+91 ••••• 04213",
+  "demoDigits": ["4", "2", "1", "9", "0", "6"],
+  "resendButton": "Resend code",
+  "countdown": "· 0:42",
+  "verifyButton": "Verify & sign in"
+}

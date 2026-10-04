@@ -1,0 +1,134 @@
+{
+  "slug": "sanctuary",
+  "name": "BPTP Sanctuary Club",
+  "tagline": "BPTP Discovery Park · Sector 80, Faridabad",
+  "accent": "green",
+  "heroGradient": "linear-gradient(135deg, #A8C5C0 0%, #5B8A82 55%, #2D4A45 100%)",
+  "heroBadge": "PUBLIC PREVIEW",
+  "description": "The clubhouse at the heart of a 1,274-home high-rise community — a pool, a gym and courts for tennis, basketball and cricket, built for everyday recreation and quiet evenings alike.",
+  "exploreDescription": "A high-rise clubhouse with a pool, gym and courts for tennis, basketball and cricket.",
+  "exploreOpenBadge": "Open to visit",
+  "amenities": [
+    {
+      "key": "pool",
+      "name": "Swimming Pool",
+      "blurb": "A clubhouse pool with a dedicated kids' section, open in a morning and an evening session.",
+      "gradient": "linear-gradient(135deg, #CFE8E2 0%, #6FA99B 55%, #35594E 100%)"
+    },
+    {
+      "key": "gym",
+      "name": "Gym",
+      "blurb": "A fully equipped fitness floor with free weights, cardio and a functional training zone.",
+      "gradient": "linear-gradient(135deg, #A9AFB4 0%, #676E75 55%, #2E3338 100%)"
+    },
+    {
+      "key": "courts",
+      "name": "Sports Courts",
+      "blurb": "Outdoor courts for tennis, basketball and futsal, plus cricket practice nets.",
+      "gradient": "linear-gradient(135deg, #CFE0C4 0%, #7FA36B 55%, #3B5A2E 100%)"
+    },
+    {
+      "key": "theatre",
+      "name": "Theatre Room",
+      "blurb": "A private screening room for movie nights, with comfortable tiered seating.",
+      "gradient": "linear-gradient(135deg, #C9A9C9 0%, #8A5F8A 55%, #4A2E4A 100%)"
+    }
+  ],
+  "amenityDetails": {
+    "pool": {
+      "key": "pool",
+      "title": "The Swimming Pool",
+      "gradient": "linear-gradient(135deg, #CFE8E2 0%, #6FA99B 55%, #35594E 100%)",
+      "accentColor": "#35594E",
+      "description": "A clubhouse pool with a dedicated kids' section, open in a morning and an evening session with a midday break for cleaning.",
+      "hours": {
+        "kind": "split",
+        "morning": { "range": "6:00 – 9:00 AM", "note": "Lane swimming" },
+        "evening": { "range": "4:00 – 9:00 PM", "note": "Open swim" },
+        "closedNote": "Closed 9:00 AM – 4:00 PM daily for cleaning"
+      },
+      "highlights": ["Dedicated kids' pool", "Lifeguard on duty", "Towels available at the desk"],
+      "cta": "Book a lane"
+    },
+    "gym": {
+      "key": "gym",
+      "title": "The Gym",
+      "gradient": "linear-gradient(135deg, #A9AFB4 0%, #676E75 55%, #2E3338 100%)",
+      "accentColor": "#2E3338",
+      "description": "A fully equipped fitness floor with free weights, cardio machines and a functional training zone, staffed across a morning and an evening session.",
+      "hours": {
+        "kind": "split",
+        "morning": { "range": "5:00 – 10:00 AM", "note": "Trainers on floor" },
+        "evening": { "range": "5:00 – 10:00 PM", "note": "Trainers on floor" },
+        "closedNote": "Closed 10:00 AM – 5:00 PM daily for maintenance"
+      },
+      "highlights": ["Free weights and cardio", "Functional training zone", "Personal trainers on request"],
+      "cta": "View class schedule"
+    },
+    "courts": {
+      "key": "courts",
+      "title": "The Sports Courts",
+      "gradient": "linear-gradient(135deg, #CFE0C4 0%, #7FA36B 55%, #3B5A2E 100%)",
+      "accentColor": "#3B5A2E",
+      "description": "Outdoor courts for tennis, basketball and futsal, plus cricket practice nets, open through the day.",
+      "hours": { "kind": "single", "text": "6:00 AM – 9:00 PM daily" },
+      "highlights": ["Tennis and basketball courts", "Futsal turf", "Cricket practice nets"],
+      "cta": "Reserve a court"
+    },
+    "theatre": {
+      "key": "theatre",
+      "title": "The Theatre Room",
+      "gradient": "linear-gradient(135deg, #C9A9C9 0%, #8A5F8A 55%, #4A2E4A 100%)",
+      "accentColor": "#4A2E4A",
+      "description": "A private screening room for movie nights, with comfortable tiered seating and surround sound.",
+      "hours": { "kind": "single", "text": "By reservation, 4:00 PM – 11:00 PM" },
+      "highlights": ["Tiered seating for 24", "Surround sound system", "Popcorn machine on request"],
+      "cta": "Reserve the theatre"
+    }
+  },
+  "events": [
+    { "key": "yoga", "day": "today", "dayLabel": "Today", "date": "TODAY", "time": "6:30 AM", "title": "Sunrise Yoga by the Pool", "note": "Pool deck", "open": true },
+    { "key": "skating", "day": "today", "dayLabel": "Today", "date": "TODAY", "time": "6:00 PM", "title": "Open Skating Hour", "note": "Skating rink", "open": true },
+    { "key": "movie", "day": "thu", "dayLabel": "Thursday", "date": "THU", "time": "7:30 PM", "title": "Movie Night: Community Pick", "note": "Theatre Room", "open": true },
+    { "key": "futsal", "day": "sat", "dayLabel": "Saturday", "date": "SAT", "time": "5:00 PM", "title": "Weekend Futsal League", "note": "Sports Courts", "open": true },
+    { "key": "diwali", "day": "oct24", "dayLabel": "Oct 24", "date": "OCT 24", "time": "7:00 PM", "title": "Diwali Terrace Party", "note": "Clubhouse Lawn", "open": false }
+  ],
+  "eventGradients": [
+    "linear-gradient(135deg, #A8C5C0 0%, #5B8A82 55%, #2D4A45 100%)",
+    "linear-gradient(135deg, #A9AFB4 0%, #676E75 55%, #2E3338 100%)",
+    "linear-gradient(135deg, #C9A9C9 0%, #8A5F8A 55%, #4A2E4A 100%)"
+  ],
+  "membershipPlans": [
+    {
+      "key": "individual",
+      "name": "Individual",
+      "price": "₹20,000",
+      "period": "/ year",
+      "features": ["Full access for one member", "Pool, gym & courts included", "10% off theatre bookings"]
+    },
+    {
+      "key": "family",
+      "name": "Family",
+      "price": "₹32,000",
+      "period": "/ year",
+      "featured": true,
+      "features": ["Up to 4 family members", "Everything in Individual", "2 free guest passes every month"]
+    },
+    {
+      "key": "corporate",
+      "name": "Corporate",
+      "price": "Custom pricing",
+      "features": ["Bulk seats with flexible billing", "Dedicated account manager"]
+    }
+  ],
+  "interestOptions": [
+    { "key": "pool", "label": "Swimming Pool" },
+    { "key": "gym", "label": "Gym" },
+    { "key": "courts", "label": "Sports Courts" },
+    { "key": "theatre", "label": "Theatre Room" },
+    { "key": "events", "label": "Events" },
+    { "key": "pricing", "label": "Membership pricing" }
+  ],
+  "todayHighlight": { "badge": "Today at the club", "title": "Open Skating Hour", "note": "6:00 PM · Open to all residents" },
+  "spaceCard": { "badge": "Resident since 2022", "initial": "S", "stat": "2 events this week · pool open till 9 PM" }
+}

@@ -1,0 +1,30 @@
+{
+  "headingTemplate": "Welcome to {club}",
+  "bodyTemplate": "Your {plan} membership is active. Here’s what to do next.",
+  "defaultPlan": "Family",
+  "goToClubButton": "Go to my club",
+  "nextSteps": [
+    {
+      "key": "events",
+      "icon": "calendar",
+      "title": "Explore this week's events",
+      "note": "RSVP and get reminders",
+      "linked": true,
+      "hrefTemplate": "/club/{slug}/events"
+    },
+    {
+      "key": "card",
+      "icon": "card",
+      "title": "Save your member card",
+      "note": "Show it at the gate for quick entry",
+      "linked": false
+    },
+    {
+      "key": "book",
+      "icon": "book",
+      "title": "Book your first amenity slot",
+      "note": "Popular slots fill up fast on weekends",
+      "linked": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Enter code",
+  "subtitle": "Apodic account",
+  "bodyTemplate": "We’ve sent a 6-digit code to {phone}.",
+  "maskedPhone": "+91 ••••• 04213",
+  "demoDigits": ["7", "2", "4", "1", "8", ""],
+  "resendButton": "Resend code",
+  "countdown": "· 0:42",
+  "verifyButton": "Verify & continue",
+  "backAriaLabel": "Back to phone entry"
+}

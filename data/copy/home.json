@@ -1,0 +1,19 @@
+{
+  "greeting": "GOOD EVENING, ADRIAN",
+  "statusBadge": "VERIFIED RESIDENT",
+  "heading": "Your spaces",
+  "activeCount": "3 ACTIVE ENCLAVES",
+  "stats": [
+    { "id": "spaces", "value": "2", "label": "Spaces Active" },
+    { "id": "passes", "value": "3", "label": "Passes Booked" },
+    { "id": "votes", "value": "1", "label": "Vote Pending", "hasAlert": true }
+  ],
+  "sectionLabel": "SPACES YOU BELONG TO",
+  "sectionCount": "(3)",
+  "manageLabel": "MANAGE",
+  "exploreBanner": {
+    "eyebrow": "LOOKING FOR MORE SPACES?",
+    "heading": "Explore clubs & societies in Delhi ..."
+  },
+  "frontDeskNote": "Need a bespoke guest badge? Contact Front Desk"
+}
